@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /style-guide
+Disallow: /401
+
+Sitemap: https://goodgoodbaths.com/sitemap.xml
